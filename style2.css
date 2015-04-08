@@ -1,0 +1,42 @@
+h1{
+	padding-top: 20px;
+	font-family: sans-serif;
+	font-size: 45px;
+	color: black;
+}
+h2{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: black;
+
+}
+
+.column1{
+	top: 1px;
+	width: 800px;
+	height: 800px;
+	background-color: #FF3E96;
+	float: left;
+}
+.picture1{
+	width: 200px
+	margin-top: 10px;
+	margin-right: 10px;
+
+
+}
+
+.column2{
+	margin-top: 0px;
+	width: 350px;
+	height: 800px;
+	background-color: #C6E2FF;
+	float: right;
+}
+
+
+p{
+	font-size: 12px;
+	font-family: sans-serif;
+	width:500px;
+}
